@@ -1,1 +1,1 @@
-# pruebasGitHub
+Este repositorio es para hacer pruebas de comandos en gitHub
